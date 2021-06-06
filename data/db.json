@@ -23,6 +23,12 @@
       "details": "Pay £750 for the month on Tuesday",
       "category": "money",
       "id": 5
+    },
+    {
+      "title": "Finish coursework",
+      "details": "Finish remaining 250 words of 1,000 word assignment",
+      "category": "reminders",
+      "id": 6
     }
   ]
 }
